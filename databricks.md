@@ -1,4 +1,6 @@
 ### Databricks utility/shortcut
 
-- format the sql code in databricks
-   ctrl+shift+F
+
+- **Format the SQL code in Databricks** — `Ctrl` + `Shift` + `F`
+  
+
